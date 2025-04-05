@@ -10,4 +10,4 @@ const car1 = (name)=>
 {
  console.log("This is a car function :"+" "+ name);
 }
-car1("BMW");
+car1("ss");
